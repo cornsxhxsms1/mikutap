@@ -46,4 +46,4 @@ http://exittunes.com/license/
 [https://static.hfi.me/mikutap](https://static.hfi.me/mikutap)
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/Misaka-blog/HX)
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/cornsxhxsms1/mikutap)
