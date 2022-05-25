@@ -1,6 +1,6 @@
 FROM alpine
 
-ADD misaka.sh /misaka.sh
+ADD mikutap.sh /mikutap.sh
 ADD kano /usr/local/bin/kano
 
 RUN apk update && \
@@ -8,4 +8,4 @@ RUN apk update && \
     chmod 777 /misaka.sh && \
     chmod 777 /usr/local/bin/kano
 
-CMD /misaka.sh
+CMD /mikutap.sh
